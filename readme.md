@@ -9,6 +9,10 @@ npm install canvas jsdom
 - 某站的注册相关请求
 ![test](https://img-blog.csdnimg.cn/20210604170204595.gif#pic_center)
 
+### todo
+ - 嵌套一层无感验证的极验验证码
+ - 极验图形点选验证码
+
 ### 捐赠
 如果你觉得项目帮助到您，请认真考虑请作者喝一杯咖啡 😄
 | 微信二维码 | 支付宝二维码 |
